@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/mondyw/Jago
-> cd Jago
+> git clone https://github.com/mondyw/jago
+> cd jago
 > bash install.sh
 > node index.js
 ```
