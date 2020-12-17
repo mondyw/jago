@@ -1,0 +1,2 @@
+# Jago
+Sultan mah bebas
